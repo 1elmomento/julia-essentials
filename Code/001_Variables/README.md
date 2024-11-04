@@ -1,6 +1,6 @@
 
 # Variables
-In this blog post I start with variables in Julia and Python. 
+In this section we explore the variables in Julia programming language. The variables and codes are define inline in `README.md` file but you can also see the full examples of the variables in `Main.jl` file. 
 
 ## Variable Names:
 
