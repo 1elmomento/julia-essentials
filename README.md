@@ -10,9 +10,9 @@ Each subject have following structure: There is a `Main.jl` file in each folder 
 I often compare languages with each other to see the difference. This is why I compare Julia with programming languags like Python, C, or Java. This helps when you have a familiarity with these languages and helps to understand subjects more easily. However, if you are new to the amazing world of programming, you can also use the notes. In this case the comparison might broaden you view on programming, so don't panic and just learn. 
 
 ## Table of Contents
-- [Variables](001_Variables/notes.md)
-- [Integers and Floating-point numbers](002_IntegersAndFloatingPointNumbers/notes.md)
-- [Floating-point Numbers](003_FloatingPointNumbers/notes.md)
+- [Variables](Code/001_Variables/notes.md)
+- [Integers and Floating-point numbers](Code/002_IntegersAndFloatingPointNumbers/notes.md)
+- [Floating-point Numbers](Code/003_FloatingPointNumbers/notes.md)
 
 ## Contributing
 
