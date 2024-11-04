@@ -19,7 +19,7 @@ variable2 = 1
 #=
 Unicode Names:
 
-One very nice feature of Julia is that we can Unicode names as variable names. 
+One very nice feature of Julia is that we can use Unicode names as variable names. 
 For example in scientific programming, we often use names like `alpha` or `beta` for some parameters.
 Julia enables us to use the actual symbol of these Unicode characters in the code. 
 

@@ -14,20 +14,4 @@ I often compare languages with each other to see the difference. This is why I c
 - [Integers and Floating-point numbers](Code/002_IntegersAndFloatingPointNumbers/notes.md)
 - [Floating-point Numbers](Code/003_FloatingPointNumbers/notes.md)
 
-## Contributing
-
-We welcome contributions to this project! To contribute, please follow these steps:
-
-1. **Fork the repository**: Click on the "Fork" button at the top right of the repository page to create your own copy of the project.
-
-2. **Create a new branch**: Create a new branch for your feature or bug fix. You can do this by running:
-    ```bash
-    git checkout -b feature/my-feature
-    ```
-
-## Clone the repository
-```bash
-git clone https://github.com/1elmomento/JuliaEssentials.git
-```
-
 
