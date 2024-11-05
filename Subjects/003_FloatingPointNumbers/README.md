@@ -38,7 +38,6 @@ Double precision numbers are preferred for high-accuracy scientific computations
 Now let's look at how Julia handle floating-point numbers. Consider these examples:
 
 ```julia
-# Julia 
 a::Float16 = 1.234567890123456789
 # Output: 1.234567890123456789
 ```
@@ -54,7 +53,6 @@ Where $n$ denotes the number of bits available for significand and the sign bit 
 The answer is again Julia's type conversion and promotion mechanism. When we assign that number to the variable, Julia sees that it cannot store that number in a `Float16` type, therefore it automatically promotes the type to `Float64`. In order to solve this issue we have to explicitly say we want a `Float16` number and don't promote the type. For this we write this code:
 
 ```julia
-# Julia
 a = Float16(1.234567890123456789)
 # Output: Float16(1.234)
 ``` 
@@ -64,7 +62,6 @@ In here Julia's conversion mechanism takes action and convert our number to a `F
 The same goes for single-precision and double-precision numbers as well:
 
 ```julia
-# Julia
 b = Float32(1.234567890123456789)
 # Output: 1.2345679f0
 ```
@@ -73,7 +70,6 @@ Here at the end of the output we have a new symbol we didn't see in half-precisi
 For the `Float64` we have this example:
 
 ```julia
-# Julia
 c = Float64(1.234567890123456789)
 # Output: 1.2345678901234567
 ```
