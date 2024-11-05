@@ -11,7 +11,7 @@ I often compare languages with each other to see the difference. This is why I c
 
 ## Table of Contents
 - [Variables](Code/001_Variables/)
-- [Integers and Floating-point numbers](Code/002_IntegersAndFloatingPointNumbers/notes.md)
-- [Floating-point Numbers](Code/003_FloatingPointNumbers/notes.md)
+- [Integers and Floating-point numbers](Code/002_IntegersAndFloatingPointNumbers/)
+- [Floating-point Numbers](Code/003_FloatingPointNumbers/)
 
 
