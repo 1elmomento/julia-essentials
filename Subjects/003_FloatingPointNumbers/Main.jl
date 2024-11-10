@@ -52,7 +52,7 @@ For Float32 these are: Inf32, -Inf32, and NaN32
 For Float64 these are: Inf, -Inf, NaN
 =#
 
-# These special cases have some interesting arithmetic operations that I share some of the here:
+# These special cases have some interesting arithmetic operations that I share some of them here:
 
 a1 = 1 / Inf # Output: 0.0
 a2 = 1 / 0 # Output: Inf

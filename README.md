@@ -13,5 +13,4 @@ I often compare languages with each other to see the difference. This is why I c
 - [Variables](Subjects/001_Variables/)
 - [Integers and Floating-point numbers](Subjects/002_IntegersAndFloatingPointNumbers/)
 - [Floating-point Numbers](Subjects/003_FloatingPointNumbers/)
-
-
+- [Mathematical Operations](Subjects/004_Operations/)
