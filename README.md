@@ -14,3 +14,4 @@ I often compare languages with each other to see the difference. This is why I c
 - [Integers and Floating-point numbers](Subjects/002_IntegersAndFloatingPointNumbers/)
 - [Floating-point Numbers](Subjects/003_FloatingPointNumbers/)
 - [Mathematical Operations 1](Subjects/004_Operations_01/)
+- [Mathematical Operations 2](Subjects/005_Operations_02/)
