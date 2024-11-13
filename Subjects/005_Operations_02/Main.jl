@@ -200,8 +200,6 @@ sinpi(√2 / 2) # Output: 0.7956932015674808
 cos(pi * √2 / 2) # Output: -0.6056998670788134
 cospi(√2 / 2) # Output: -0.6056998670788135
 
-sin(π√2 / 2)
-
 #=
 Another cool feature of Julia is this:
 In order to compute trigonometric functions with degrees instead of radians, suffix the function with d. For example
